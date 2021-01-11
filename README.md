@@ -1,3 +1,10 @@
+<h1 style="font-weight: bold;"># DEPRECATED</h1>
+<h2>
+  This code pattern is no longer supported. You can find the newly supported Natural Language Understanding Pattern
+  <a href="https://github.com/IBM/natural-language-understanding-code-pattern">
+    here.
+  </a>
+</h2>
 <h1 align="center" style="border-bottom: none;">🔎 Natural Language Understanding Code Pattern </h1>
 <h3 align="center">Natural Language Understanding is a collection of APIs that offer text analysis through natural language processing. This set of APIs can analyze text to help you understand its concepts, entities, keywords, sentiment, and more. Additionally, you can create a custom model for some APIs to get specific results that are tailored to your domain.</h3>
 <p align="center">
